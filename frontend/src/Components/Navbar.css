@@ -1,0 +1,21 @@
+.navbar-brand{
+    background: linear-gradient(90deg, #72a7eb, #097dea); /* Change colors as needed */
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+}
+.carticon{
+    background: linear-gradient(90deg, #72a7eb, #097dea); /* Change colors as needed */
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.logo-btn {
+    outline: none; 
+    border: none;
+}
+
+.logo-btn:focus {
+    outline: none; 
+}
